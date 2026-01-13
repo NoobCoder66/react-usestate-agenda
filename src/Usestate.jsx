@@ -54,7 +54,7 @@ function UseState() {
 
       <hr />
 
-      <p>Welcome, <strong>{name}</strong>. You are <strong>{age}</strong> years old, work as a <strong>{occupation}</strong> and your email is <strong>{email}</strong>.</p>
+      <p>Welcome, <strong>{name}</strong>. You are <strong>{age}</strong> years old, currently as a <strong>{occupation}</strong> and your email is <strong>{email}</strong>.</p>
     </div>
   );
 }
